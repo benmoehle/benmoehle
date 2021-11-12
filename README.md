@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @benmoehle (he/him)
+- 👀 I’m looking for devs interested working in autonomous tech teams with a diverse and modern tech stack
+- 🌈 Learn more about how we work: https://www.moia.io/en/career/moia-gmbh
+- 🌱 I’m currently learning Kotlin & Python 👨🏼‍🎓 
+- 📫 Reach me via https://www.linkedin.com/in/benjamin-moehle/ or benjamin.moehle@moia.io
