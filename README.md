@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @benmoehle (he/him)
 - 👀 I’m looking for devs interested working in autonomous tech teams with a diverse and modern tech stack
-- 🚐 Currently especially in the field of Embedded Systems to make the vision of an autonomously driving mobility service a reality: https://moia.softgarden.io/job/12054317?l=en
+- 🚐 Currently especially in the field of embedded systems: https://moia.softgarden.io/job/12054317?l=en
 - 🌈 Learn more about how we work: https://www.moia.io/en/career/moia-gmbh
 - 🌱 I’m currently learning Kotlin & Python 👨🏼‍🎓 
+- 🌳 I'm deeply caring for sustainability, diversity & inclusion and the digital transformation
 - 📫 Reach me via https://www.linkedin.com/in/benjamin-moehle/ or benjamin.moehle@moia.io
